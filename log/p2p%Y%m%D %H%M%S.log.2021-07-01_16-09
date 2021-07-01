@@ -1,0 +1,12 @@
+2021-07-01 16:08:31,046 INFO [root] [login_param.py(test001_get_verify_imgcode:42)] - 测试结果:<Response [200]>
+2021-07-01 16:08:31,239 INFO [root] [login_param.py(test001_get_verify_imgcode:42)] - 测试结果:<Response [200]>
+2021-07-01 16:08:31,348 INFO [root] [login_param.py(test001_get_verify_imgcode:42)] - 测试结果:<Response [404]>
+2021-07-01 16:08:31,516 INFO [root] [login_param.py(test001_get_verify_imgcode:42)] - 测试结果:<Response [400]>
+2021-07-01 16:09:00,575 INFO [root] [login_param.py(test001_get_verify_imgcode:42)] - 测试结果:<Response [200]>
+2021-07-01 16:09:00,700 INFO [root] [login_param.py(test001_get_verify_imgcode:42)] - 测试结果:<Response [200]>
+2021-07-01 16:09:00,840 INFO [root] [login_param.py(test001_get_verify_imgcode:42)] - 测试结果:<Response [404]>
+2021-07-01 16:09:00,964 INFO [root] [login_param.py(test001_get_verify_imgcode:42)] - 测试结果:<Response [400]>
+2021-07-01 16:09:27,494 INFO [root] [login_param.py(test001_get_verify_imgcode:42)] - 测试结果:<Response [200]>
+2021-07-01 16:09:27,670 INFO [root] [login_param.py(test001_get_verify_imgcode:42)] - 测试结果:<Response [200]>
+2021-07-01 16:09:27,783 INFO [root] [login_param.py(test001_get_verify_imgcode:42)] - 测试结果:<Response [404]>
+2021-07-01 16:09:27,900 INFO [root] [login_param.py(test001_get_verify_imgcode:42)] - 测试结果:<Response [400]>

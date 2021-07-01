@@ -1,0 +1,24 @@
+{
+  "test_get_img_code":[
+    {
+      "desc":"参数为随机小数时获取图片验证码成功",
+      "type":"float",
+      "status_code":200
+    },
+    {
+      "desc":"参数为随机整数时获取图片验证码成功",
+      "type":"int",
+      "status_code":200
+    },
+    {
+      "desc":"参数为空时，获取图片验证码失败",
+      "type":"",
+      "status_code":404
+    },
+    {
+      "desc":"参数为字母时，获取图片验证码失败",
+      "type":"char",
+      "status_code":400
+    }
+  ]
+}

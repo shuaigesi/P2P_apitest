@@ -1,0 +1,74 @@
+2021-07-01 18:45:08,003 INFO [root] [login_param.py(test01_get_verify_imgcode:43)] - 测试结果:<Response [200]>
+2021-07-01 18:45:08,333 INFO [root] [login_param.py(test01_get_verify_imgcode:43)] - 测试结果:<Response [200]>
+2021-07-01 18:45:08,487 INFO [root] [login_param.py(test01_get_verify_imgcode:43)] - 测试结果:<Response [404]>
+2021-07-01 18:45:08,597 INFO [root] [login_param.py(test01_get_verify_imgcode:43)] - 测试结果:<Response [400]>
+2021-07-01 18:45:08,809 INFO [root] [login_param.py(test05_register:50)] - 获取图片验证码:<Response [200]>
+2021-07-01 18:45:08,953 INFO [root] [login_param.py(test05_register:54)] - 获取手机验证码:{'status': 200, 'description': '短信发送成功'}
+2021-07-01 18:45:09,155 INFO [root] [login_param.py(test05_register:58)] - 注册:{'status': 200, 'data': {'isLogin': '1'}, 'description': '注册成功'}
+2021-07-01 18:45:09,361 INFO [root] [login_param.py(test05_register:50)] - 获取图片验证码:<Response [200]>
+2021-07-01 18:45:09,438 INFO [root] [login_param.py(test05_register:54)] - 获取手机验证码:{'status': 200, 'description': '短信发送成功'}
+2021-07-01 18:45:09,565 INFO [root] [login_param.py(test05_register:58)] - 注册:{'status': 200, 'data': {'isLogin': '1'}, 'description': '注册成功'}
+2021-07-01 18:45:09,758 INFO [root] [login_param.py(test05_register:50)] - 获取图片验证码:<Response [200]>
+2021-07-01 18:45:09,854 INFO [root] [login_param.py(test05_register:54)] - 获取手机验证码:{'status': 200, 'description': '短信发送成功'}
+2021-07-01 18:45:10,033 INFO [root] [login_param.py(test05_register:58)] - 注册:{'status': 100, 'description': '手机已存在!'}
+2021-07-01 18:45:10,241 INFO [root] [login_param.py(test05_register:50)] - 获取图片验证码:<Response [200]>
+2021-07-01 18:45:10,385 INFO [root] [login_param.py(test05_register:54)] - 获取手机验证码:{'status': 200, 'description': '短信发送成功'}
+2021-07-01 18:45:10,589 INFO [root] [login_param.py(test05_register:58)] - 注册:{'status': 200, 'data': {'isLogin': '1'}, 'description': '注册成功'}
+2021-07-01 18:45:10,793 INFO [root] [login_param.py(test05_register:50)] - 获取图片验证码:<Response [200]>
+2021-07-01 18:45:10,852 INFO [root] [login_param.py(test05_register:54)] - 获取手机验证码:{'status': 100, 'description': '图片验证码错误'}
+2021-07-01 18:45:11,060 INFO [root] [login_param.py(test05_register:50)] - 获取图片验证码:<Response [200]>
+2021-07-01 18:45:11,189 INFO [root] [login_param.py(test05_register:54)] - 获取手机验证码:{'status': 200, 'description': '短信发送成功'}
+2021-07-01 18:45:11,250 INFO [root] [login_param.py(test05_register:58)] - 注册:{'status': 100, 'description': '验证码错误'}
+2021-07-01 18:45:11,471 INFO [root] [login_param.py(test05_register:50)] - 获取图片验证码:<Response [200]>
+2021-07-01 18:45:11,612 INFO [root] [login_param.py(test05_register:54)] - 获取手机验证码:{'status': 200, 'description': '短信发送成功'}
+2021-07-01 18:45:11,827 INFO [root] [login_param.py(test05_register:58)] - 注册:{'status': 200, 'data': {'isLogin': '1'}, 'description': '注册成功'}
+2021-07-01 18:47:44,414 INFO [root] [login_param.py(test01_get_verify_imgcode:43)] - 测试结果:<Response [200]>
+2021-07-01 18:47:44,544 INFO [root] [login_param.py(test01_get_verify_imgcode:43)] - 测试结果:<Response [200]>
+2021-07-01 18:47:44,681 INFO [root] [login_param.py(test01_get_verify_imgcode:43)] - 测试结果:<Response [404]>
+2021-07-01 18:47:44,802 INFO [root] [login_param.py(test01_get_verify_imgcode:43)] - 测试结果:<Response [400]>
+2021-07-01 18:47:44,967 INFO [root] [login_param.py(test05_register:50)] - 获取图片验证码:<Response [200]>
+2021-07-01 18:47:45,037 INFO [root] [login_param.py(test05_register:54)] - 获取手机验证码:{'status': 200, 'description': '短信发送成功'}
+2021-07-01 18:47:45,142 INFO [root] [login_param.py(test05_register:58)] - 注册:{'status': 200, 'data': {'isLogin': '1'}, 'description': '注册成功'}
+2021-07-01 18:47:45,266 INFO [root] [login_param.py(test05_register:50)] - 获取图片验证码:<Response [200]>
+2021-07-01 18:47:45,343 INFO [root] [login_param.py(test05_register:54)] - 获取手机验证码:{'status': 200, 'description': '短信发送成功'}
+2021-07-01 18:47:45,479 INFO [root] [login_param.py(test05_register:58)] - 注册:{'status': 200, 'data': {'isLogin': '1'}, 'description': '注册成功'}
+2021-07-01 18:47:45,603 INFO [root] [login_param.py(test05_register:50)] - 获取图片验证码:<Response [200]>
+2021-07-01 18:47:45,678 INFO [root] [login_param.py(test05_register:54)] - 获取手机验证码:{'status': 200, 'description': '短信发送成功'}
+2021-07-01 18:47:45,762 INFO [root] [login_param.py(test05_register:58)] - 注册:{'status': 100, 'description': '手机已存在!'}
+2021-07-01 18:47:45,883 INFO [root] [login_param.py(test05_register:50)] - 获取图片验证码:<Response [200]>
+2021-07-01 18:47:46,009 INFO [root] [login_param.py(test05_register:54)] - 获取手机验证码:{'status': 200, 'description': '短信发送成功'}
+2021-07-01 18:47:46,118 INFO [root] [login_param.py(test05_register:58)] - 注册:{'status': 200, 'data': {'isLogin': '1'}, 'description': '注册成功'}
+2021-07-01 18:47:46,241 INFO [root] [login_param.py(test05_register:50)] - 获取图片验证码:<Response [200]>
+2021-07-01 18:47:46,318 INFO [root] [login_param.py(test05_register:54)] - 获取手机验证码:{'status': 200, 'description': '短信发送成功'}
+2021-07-01 18:47:46,376 INFO [root] [login_param.py(test05_register:58)] - 注册:{'status': 100, 'description': '验证码错误!'}
+2021-07-01 18:47:46,501 INFO [root] [login_param.py(test05_register:50)] - 获取图片验证码:<Response [200]>
+2021-07-01 18:47:46,574 INFO [root] [login_param.py(test05_register:54)] - 获取手机验证码:{'status': 200, 'description': '短信发送成功'}
+2021-07-01 18:47:46,637 INFO [root] [login_param.py(test05_register:58)] - 注册:{'status': 100, 'description': '验证码错误'}
+2021-07-01 18:47:46,763 INFO [root] [login_param.py(test05_register:50)] - 获取图片验证码:<Response [200]>
+2021-07-01 18:47:46,835 INFO [root] [login_param.py(test05_register:54)] - 获取手机验证码:{'status': 200, 'description': '短信发送成功'}
+2021-07-01 18:47:47,014 INFO [root] [login_param.py(test05_register:58)] - 注册:{'status': 200, 'data': {'isLogin': '1'}, 'description': '注册成功'}
+2021-07-01 18:49:49,322 INFO [root] [login_param.py(test01_get_verify_imgcode:43)] - 测试结果:<Response [200]>
+2021-07-01 18:49:49,526 INFO [root] [login_param.py(test01_get_verify_imgcode:43)] - 测试结果:<Response [200]>
+2021-07-01 18:49:49,731 INFO [root] [login_param.py(test01_get_verify_imgcode:43)] - 测试结果:<Response [404]>
+2021-07-01 18:49:49,936 INFO [root] [login_param.py(test01_get_verify_imgcode:43)] - 测试结果:<Response [400]>
+2021-07-01 18:49:50,145 INFO [root] [login_param.py(test02_register:50)] - 获取图片验证码:<Response [200]>
+2021-07-01 18:49:50,350 INFO [root] [login_param.py(test02_register:54)] - 获取手机验证码:{'status': 200, 'description': '短信发送成功'}
+2021-07-01 18:49:50,567 INFO [root] [login_param.py(test02_register:58)] - 注册:{'status': 200, 'data': {'isLogin': '1'}, 'description': '注册成功'}
+2021-07-01 18:49:50,698 INFO [root] [login_param.py(test02_register:50)] - 获取图片验证码:<Response [200]>
+2021-07-01 18:49:50,786 INFO [root] [login_param.py(test02_register:54)] - 获取手机验证码:{'status': 200, 'description': '短信发送成功'}
+2021-07-01 18:49:50,902 INFO [root] [login_param.py(test02_register:58)] - 注册:{'status': 200, 'data': {'isLogin': '1'}, 'description': '注册成功'}
+2021-07-01 18:49:51,018 INFO [root] [login_param.py(test02_register:50)] - 获取图片验证码:<Response [200]>
+2021-07-01 18:49:51,099 INFO [root] [login_param.py(test02_register:54)] - 获取手机验证码:{'status': 200, 'description': '短信发送成功'}
+2021-07-01 18:49:51,156 INFO [root] [login_param.py(test02_register:58)] - 注册:{'status': 100, 'description': '手机已存在!'}
+2021-07-01 18:49:51,304 INFO [root] [login_param.py(test02_register:50)] - 获取图片验证码:<Response [200]>
+2021-07-01 18:49:51,387 INFO [root] [login_param.py(test02_register:54)] - 获取手机验证码:{'status': 200, 'description': '短信发送成功'}
+2021-07-01 18:49:51,515 INFO [root] [login_param.py(test02_register:58)] - 注册:{'status': 200, 'data': {'isLogin': '1'}, 'description': '注册成功'}
+2021-07-01 18:49:51,655 INFO [root] [login_param.py(test02_register:50)] - 获取图片验证码:<Response [200]>
+2021-07-01 18:49:51,739 INFO [root] [login_param.py(test02_register:54)] - 获取手机验证码:{'status': 200, 'description': '短信发送成功'}
+2021-07-01 18:49:51,795 INFO [root] [login_param.py(test02_register:58)] - 注册:{'status': 100, 'description': '验证码错误!'}
+2021-07-01 18:49:51,927 INFO [root] [login_param.py(test02_register:50)] - 获取图片验证码:<Response [200]>
+2021-07-01 18:49:52,035 INFO [root] [login_param.py(test02_register:54)] - 获取手机验证码:{'status': 200, 'description': '短信发送成功'}
+2021-07-01 18:49:52,102 INFO [root] [login_param.py(test02_register:58)] - 注册:{'status': 100, 'description': '验证码错误'}
+2021-07-01 18:49:52,229 INFO [root] [login_param.py(test02_register:50)] - 获取图片验证码:<Response [200]>
+2021-07-01 18:49:52,308 INFO [root] [login_param.py(test02_register:54)] - 获取手机验证码:{'status': 200, 'description': '短信发送成功'}
+2021-07-01 18:49:52,429 INFO [root] [login_param.py(test02_register:58)] - 注册:{'status': 200, 'data': {'isLogin': '1'}, 'description': '注册成功'}
